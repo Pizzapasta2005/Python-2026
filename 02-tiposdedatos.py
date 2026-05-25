@@ -74,5 +74,14 @@ print("-------BOOLEANOS--------")
 print(luz_electrica)
 print(interruptor)
 
+# Metodo type que permite saber el tipo de dato de una variable 
 
 print(f"El tipo de dato es {type(carrera)}")
+
+
+print("--------EVALUANDO DATOS BOOLEANOS-------")
+print(bool(1))
+print(bool(0))
+print(bool(""))
+print(bool("true"))
+print(bool(4000))
