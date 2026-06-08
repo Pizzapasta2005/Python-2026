@@ -28,3 +28,22 @@ print(ramos)
 
 ramos.append('Programacion')
 print(ramos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ramos_segundo_semestre = 10
+
+#Aplicando metodo index
+
+print(ramos_segundo_semestre.index('algebra')) #posicion
