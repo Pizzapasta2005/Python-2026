@@ -25,4 +25,10 @@ print(f"TUPLA CON ULTIMO ELEMENTO ELIMINADO: (estudiantes)")"""
 
 #Ocuparemos el metodo index para consultar la posicion de un elemento
 
-print(estudiantes.index)
+print(estudiantes.index('Alan')) #se encuentra en la posicion 2
+
+#Metodo Sorted() para ordenar elementos de una tupla
+
+print(sorted(estudiantes))
+
+#set = conjuntos
